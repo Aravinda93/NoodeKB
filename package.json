@@ -1,0 +1,28 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple Knowledgebase App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Aravinda Baliga",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "connect-flash": "^0.1.1",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.16.4",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.0",
+    "flash": "^1.1.0",
+    "module_name": "^1.0.0",
+    "mongoose": "^5.3.13",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.3"
+  }
+}
